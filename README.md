@@ -1,4 +1,4 @@
-# Bitstamp-MoneyMoney
+# Stockplan-MoneyMoney
 
 Fetches vested stock amount and value from MorganStanley Stockplan connect for Amazon Employees. 
 
