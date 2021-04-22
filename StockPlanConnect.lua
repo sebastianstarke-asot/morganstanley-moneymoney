@@ -171,7 +171,7 @@ function RefreshAccount (account, since)
   amazon.amount=amount
   amazon.currencyOfPrice = "EUR"
   amazon.purchasePrice = 0
-  amazon.currenctOfPurchasePrice = "EUR"
+  amazon.currencyOfPurchasePrice = "EUR"
 
   local secs = {}
   table.insert(secs, amazon)
